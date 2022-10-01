@@ -10,7 +10,8 @@
 -  I'm a old bimmer fan, E30 is my favorite, then E36
 
 -  I love dogs and had two dogs, they are not died, just not with me anymore.....
-   <p align = 'right'> <img src='images/puppies' /> </p>
+   <p align = 'right'> <img src='images/puppies' width="300" 
+     height="300"/> </p>
 -  I like sailing, hope I can sail to Hawaii one day......
 
 -  email:  **fuchengshang@gmail.com / fushang@ucsd.edu**
