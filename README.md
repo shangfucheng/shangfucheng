@@ -1,1 +1,1 @@
-github page url: shangfucheng.github.io
+My favorite programming language is c++.
