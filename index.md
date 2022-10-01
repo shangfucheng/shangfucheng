@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shangfucheng&label=Profile%20views&color=0e75b6&style=flat" alt="shangfucheng" /> </p>
 <img src='images/puppies.jpeg' width="300" 
      height="300" style="float: right; margin-left: 15px;"/>
--  I’m currently working on **AmzflxBot**, a mobile app with kivy UI.
+-  I’m currently working on **AmzflxBot**, a mobile app with kivy UI. If you know how to implement apple IAP with kivy, please email me as I'm still trying to figure that out.
 
 -  I’m currently learning **kivy, OpenGL**
 
