@@ -2,15 +2,15 @@
 <h3 align="center">Undergrad Student at UCSD, class of 2023, studying Computer Science and looking for a Full time or Intern Job or grad school...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shangfucheng&label=Profile%20views&color=0e75b6&style=flat" alt="shangfucheng" /> </p>
-<img src='images/puppies.jpeg' width="300" 
-     height="300" style="float: right; margin-left: 15px;"/>
+
 -  I’m currently working on **AmzflxBot**, a mobile app with kivy UI.
 
 -  I’m currently learning **kivy, OpenGL**
 
 -  I'm a old bimmer fan, E30 is my favorite, then E36
 
--  I love dogs and had two dogs, they are not died, just not with me anymore.....
+-  I love dogs and had two dogs, they are not died, just not with me anymore.....  <img src='images/puppies.jpeg' width="300" 
+     height="300" style="float: right; margin-left: 15px;"/>
    
 -  I like sailing, hope I can sail to Hawaii one day......
 
