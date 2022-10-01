@@ -6,16 +6,17 @@
 -  I’m currently working on **AmzflxBot**, a mobile app with kivy UI.
 
 -  I’m currently learning **kivy, OpenGL**
+ <p align = 'right'> <img src='images/puppies.jpeg' width="300" 
+     height="300"/> </p>
 
 -  I'm a old bimmer fan, E30 is my favorite, then E36
 
 -  I love dogs and had two dogs, they are not died, just not with me anymore.....
-   <p align = 'right'> <img src='images/puppies' width="300" 
-     height="300"/> </p>
+   
 -  I like sailing, hope I can sail to Hawaii one day......
 
 -  email:  **fuchengshang@gmail.com / fushang@ucsd.edu**
-
+     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fucheng-shang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fucheng-shang" height="30" width="40" /></a>
