@@ -2,12 +2,11 @@
 <h3 align="center">Undergrad Student at UCSD, class of 2023, studying Computer Science and looking for a Full time or Intern Job or grad school...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shangfucheng&label=Profile%20views&color=0e75b6&style=flat" alt="shangfucheng" /> </p>
-
+<p align = 'right'> <img src='images/puppies.jpeg' width="300" 
+     height="300"/> </p>
 -  I’m currently working on **AmzflxBot**, a mobile app with kivy UI.
 
 -  I’m currently learning **kivy, OpenGL**
- <p align = 'right'> <img src='images/puppies.jpeg' width="300" 
-     height="300"/> </p>
 
 -  I'm a old bimmer fan, E30 is my favorite, then E36
 
