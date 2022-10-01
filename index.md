@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shangfucheng&label=Profile%20views&color=0e75b6&style=flat" alt="shangfucheng" /> </p>
 <p align = 'right'> <img src='images/puppies.jpeg' width="300" 
-     height="300"/> </p>
+     height="300"/> style="float: right; margin-left: 15px;</p>
 -  I’m currently working on **AmzflxBot**, a mobile app with kivy UI.
 
 -  I’m currently learning **kivy, OpenGL**
