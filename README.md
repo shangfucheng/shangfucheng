@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fucheng Shang</h1>
+<h1 align="center">Fucheng's User Page</h1>
 <h3 align="center">Undergrad Student at UCSD, class of 2023, studying Computer Science and looking for a Full time or Intern Job or grad school...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shangfucheng&label=Profile%20views&color=0e75b6&style=flat" alt="shangfucheng" /> </p>
