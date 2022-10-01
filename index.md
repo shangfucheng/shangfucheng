@@ -8,7 +8,7 @@
 
 -  I’m currently learning **kivy, OpenGL**
 
--  I'm a old bimmer fan, E30 is my favorite, then E36
+-  I'm an old bimmer fan, E30 is my favorite, then E36
 
 -  I love dogs and had two puppies, they are not died, just not with me anymore.....  
    
